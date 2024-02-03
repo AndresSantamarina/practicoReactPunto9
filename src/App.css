@@ -12,3 +12,11 @@ body {
 .mainPage {
   flex-grow: 1;
 }
+
+.cardMascota{
+  width: 300px;
+}
+
+.imgMascota{
+  width: 75px;
+}
