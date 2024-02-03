@@ -10,7 +10,7 @@ const CardMascota = ({ arrayCitas, borrarCita }) => {
             <div className="row">
               <div className="col-md-3">
                 <Image
-                  src="..\src\assets\defaultMascota.png"
+                  src="https://images.emojiterra.com/google/android-12l/512px/1f535.png"
                   rounded
                   fluid
                   className="imgMascota"
